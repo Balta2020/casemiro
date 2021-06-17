@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF: 1, Tigo Sports
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  Eurocopa
+https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1623782841~exp=1623783320~acl=/*~hmac=77042839bc461869fab7fa90f5f6453b1a9bba0a00865b22b02065c6b5df35ee
+#EXTINF: 1, VTV 
+https://y.wmsxx.com:30443/live/16/chunks.m3u8?nimblesessionid=1877713&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDg6NTU6NTIgUE0maGFzaF92YWx1ZT0zeXZuMHRiNnFxL0lQNGpPVTBCME53PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF: 1, Tigo Sports 2
+https://playback2.akamaized.net/streams/28858495_9035716_lsibn9d8tba9bvc1ehv_1/master.m3u8?dw=80&hdnts=exp=1623783325~acl=/streams/28858495_9035716_lsibn9d8tba9bvc1ehv_1/master.m3u8*~hmac=0104b88ba9c4810b1349f0fd1ca2a98721da5e7862f7975e48f8876115b88b61
